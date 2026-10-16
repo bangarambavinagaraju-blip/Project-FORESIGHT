@@ -1,0 +1,31 @@
+snapshot_date,sku_id,on_hand_units,on_order_units,product_name,category,unit_price,unit_cost,lead_time_days,average_daily_demand,inventory_position,lead_time_demand,days_of_inventory,risk_category,recommended_action,estimated_stockout_exposure_rs,estimated_excess_stock_value_rs
+2026-08-31,SKU001,195,83,Home Product 001,Furniture,3926.29,1887.43,8,6.89,278,55.14,28.29,Healthy,Continue routine inventory monitoring,0.0,0.0
+2026-08-31,SKU002,139,57,Home Product 002,Lighting,2334.67,1751.0,11,12.86,196,141.43,10.81,Healthy,Continue routine inventory monitoring,0.0,0.0
+2026-08-31,SKU003,214,61,Home Product 003,Kitchen,4328.34,881.98,10,6.39,275,63.93,33.47,Healthy,Continue routine inventory monitoring,0.0,0.0
+2026-08-31,SKU004,95,57,Home Product 004,Decor,3562.5,989.1,8,6.04,152,48.29,15.74,Healthy,Continue routine inventory monitoring,0.0,0.0
+2026-08-31,SKU005,164,91,Home Product 005,Storage,697.34,523.0,13,11.36,255,147.64,14.44,Healthy,Continue routine inventory monitoring,0.0,0.0
+2026-08-31,SKU006,278,54,Home Product 006,Furniture,4884.21,554.73,9,14.18,332,127.61,19.61,Healthy,Continue routine inventory monitoring,0.0,0.0
+2026-08-31,SKU007,270,76,Home Product 007,Lighting,3865.41,411.81,3,9.54,346,28.61,28.31,Healthy,Continue routine inventory monitoring,0.0,0.0
+2026-08-31,SKU008,125,53,Home Product 008,Kitchen,3983.81,1241.69,12,9.29,178,111.43,13.46,Healthy,Continue routine inventory monitoring,0.0,0.0
+2026-08-31,SKU009,180,80,Home Product 009,Decor,858.54,643.9,9,5.54,260,49.82,32.52,Healthy,Continue routine inventory monitoring,0.0,0.0
+2026-08-31,SKU010,50,78,Home Product 010,Storage,2389.33,1707.55,10,14.07,128,140.71,3.55,Reorder Now,Review supplier order and replenish stock,30378.62,0.0
+2026-08-31,SKU011,281,99,Home Product 011,Furniture,2011.29,1149.16,9,9.71,380,87.43,28.93,Healthy,Continue routine inventory monitoring,0.0,0.0
+2026-08-31,SKU012,9,59,Home Product 012,Lighting,4652.13,2098.43,9,10.32,68,92.89,0.87,Reorder Now,Review supplier order and replenish stock,115804.81,0.0
+2026-08-31,SKU013,147,36,Home Product 013,Kitchen,3308.36,1780.64,4,15.29,183,61.14,9.62,Healthy,Continue routine inventory monitoring,0.0,0.0
+2026-08-31,SKU014,173,90,Home Product 014,Decor,4158.12,849.68,9,10.61,263,95.46,16.31,Healthy,Continue routine inventory monitoring,0.0,0.0
+2026-08-31,SKU015,2,65,Home Product 015,Storage,2356.22,1767.16,12,12.79,67,153.43,0.16,Reorder Now,Review supplier order and replenish stock,203644.73,0.0
+2026-08-31,SKU016,72,61,Home Product 016,Furniture,1329.38,997.04,6,15.86,133,95.14,4.54,Healthy,Continue routine inventory monitoring,0.0,0.0
+2026-08-31,SKU017,227,74,Home Product 017,Lighting,2884.28,1029.95,10,9.29,301,92.86,24.45,Healthy,Continue routine inventory monitoring,0.0,0.0
+2026-08-31,SKU018,35,50,Home Product 018,Kitchen,553.13,414.85,3,14.54,85,43.61,2.41,Healthy,Continue routine inventory monitoring,0.0,0.0
+2026-08-31,SKU019,212,71,Home Product 019,Decor,4181.25,1737.99,7,15.18,283,106.25,13.97,Healthy,Continue routine inventory monitoring,0.0,0.0
+2026-08-31,SKU020,117,98,Home Product 020,Storage,3250.41,435.41,8,3.71,215,29.71,31.5,Healthy,Continue routine inventory monitoring,0.0,0.0
+2026-08-31,SKU021,67,71,Home Product 021,Furniture,3850.92,579.78,14,14.82,138,207.5,4.52,Reorder Now,Review supplier order and replenish stock,267638.94,0.0
+2026-08-31,SKU022,67,76,Home Product 022,Lighting,1934.0,117.67,5,13.25,143,66.25,5.06,Healthy,Continue routine inventory monitoring,0.0,0.0
+2026-08-31,SKU023,109,70,Home Product 023,Kitchen,4860.82,1988.62,6,11.14,179,66.86,9.78,Healthy,Continue routine inventory monitoring,0.0,0.0
+2026-08-31,SKU024,29,63,Home Product 024,Decor,4492.33,1695.64,7,14.61,92,102.25,1.99,Reorder Now,Review supplier order and replenish stock,46046.38,0.0
+2026-08-31,SKU025,173,63,Home Product 025,Storage,3947.32,1792.4,14,14.29,236,200.0,12.11,Healthy,Continue routine inventory monitoring,0.0,0.0
+2026-08-31,SKU026,288,98,Home Product 026,Furniture,1174.53,880.9,13,3.39,386,44.11,84.88,Healthy,Continue routine inventory monitoring,0.0,0.0
+2026-08-31,SKU027,155,65,Home Product 027,Lighting,2466.92,1201.4,3,12.93,220,38.79,11.99,Healthy,Continue routine inventory monitoring,0.0,0.0
+2026-08-31,SKU028,33,4,Home Product 028,Kitchen,458.07,343.55,5,13.64,37,68.21,2.42,Reorder Now,Review supplier order and replenish stock,14298.33,0.0
+2026-08-31,SKU029,112,21,Home Product 029,Decor,982.88,435.51,12,7.21,133,86.57,15.52,Healthy,Continue routine inventory monitoring,0.0,0.0
+2026-08-31,SKU030,157,27,Home Product 030,Storage,3494.48,374.87,3,6.0,184,18.0,26.17,Healthy,Continue routine inventory monitoring,0.0,0.0
